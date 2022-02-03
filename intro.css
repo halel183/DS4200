@@ -1,0 +1,10 @@
+body {
+    font-family: Arial;
+}
+#name {
+    font-size: 40px;
+    color: green;
+}
+.important {
+    font-style: italic;
+}

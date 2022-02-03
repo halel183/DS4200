@@ -1,0 +1,80 @@
+,In which country were you born?,In which city were you born?,"In which languages (spoken, not programming!) are you proficient? (Please list languages separated by commas). ",Which is your preferred OS?,Which is your preferred mobile OS?,"What field(s) do you think can benefit the most from visualization? (If you have multiple answers, please separate them with a comma)",Please rank the animals you like most in the following list.   [First Choice],Please rank the animals you like most in the following list.   [Second Choice],Please rank the animals you like most in the following list.   [Third Choice ],What is your favorite color?,What is your favorite number?,What temperature is it outside right now? (In Celsius) ,"On average, how many cups of coffee do you drink each day?",What time do you typically wake up? ,What time do you typically go to bed? ,What is your favorite visualization? 
+2,netherlands,new york city,"dutch, english",windows,apple ios,journalism,sea turtle,hedgehog,dog,blue,8,1,1,8:00:00 AM,12:00:00 PM,i'm not sure. fivethirtyeight.com does cool visualizations regularly though.
+4,united states,"warwick, ri",english,windows,apple ios,finance,dog,elephant,dolphin,blue,3,3,1,9:00:00 AM,1:00:00 AM,maps
+6,united states,"boston, ma",english,apple,apple ios,"sports industry, health care, research",elephant,cat,hedgehog,green,8,2.2,0,9:00:00 AM,12:00:00 AM,pie charts
+7,india,mumbai,"english, hindi, gujarati",apple,apple ios,"computer science, data analysis, finance, healthcare, retail, transportation and weather",dolphin,cat,elephant,blue,7,2,0.5,8:00:00 AM,10:00:00 PM,gravitational waves by science news
+8,united states,edison,english,windows,apple ios,"biology, neurobiology, buisness",dog,dolphin,elephant,green,13,3,1,9:00:00 AM,11:30:00 PM,bar graph
+9,united states,new york city,"english, chinese",apple,apple ios,"research, biology, web development",sea turtle,dolphin,elephant,purple,72,2,1,9:00:00 AM,12:30:00 AM,maps
+10,united states,"brighton, ma",chinese,windows,apple ios,"healthcare, finance",dog,dolphin,flying squirrel,green,3,2,1,8:00:00 AM,12:00:00 AM,heat map
+12,united states,"westwood, nj","english, chinese",apple,apple ios,"business field, medical field",dolphin,cat,flying squirrel,blue,28,1,0,10:30:00 AM,1:00:00 AM,pie chart
+13,united states ,"newton, ma","english, hindi, mandarin",apple,apple ios,"business, medical field, sports industry ",llama,dolphin,elephant,rose gold ,26,2,1,6:50:00 AM,12:00:00 AM,interactive charts 
+14,united states,"princeton, nj","english, chinese, french",apple,apple ios,healthcare,cat,llama,hedgehog,red,9,2,0,10:00:00 AM,1:00:00 AM,bar chart
+15,united states,"new haven, ct","english, urdu",apple,apple ios,"finance, health, history",cat,llama,sea turtle,blue,138,0.55,0,7:00:00 AM,11:30:00 AM,ones with bubbles and heat maps
+16,united states,"edison, nj",english,apple,apple ios,"business,healthcare",flying squirrel,dog,cat,black,8,1,0,9:00:00 AM,1:00:00 AM,scatter plots
+19,united states,warwick,english,windows,apple ios,finance,dog,elephant,dolphin,blue,3,3,1,9:00:00 AM,1:00:00 AM,maps
+20,united states,"long island, ny","english, hindi, french",apple,apple ios,"epidemiology, health science, finance",cat,flying squirrel,sea turtle,green,57,-2,1,9:00:00 AM,1:00:00 AM,bar graphs
+21,united states,"danbury, ct","english, mandarin",apple,apple ios,"finance, healthcare",elephant,dolphin,flying squirrel,blue,17,-7,0,8:20:00 AM,1:10:00 AM,scatterplot
+25,united states,"new bedford, massachusetts ",english,apple,apple ios,healthcare,dog,elephant,hedgehog,blue,10,-4,1,7:30:00 AM,9:00:00 PM,visualizations that are interactive and very creative and artistic
+26,united states,"denver, co",english,apple,apple ios,data analyst ,dolphin,elephant,hedgehog,red,28,-7.8,3,8:30:00 AM,11:00:00 PM,bar graph
+27,united states,new york city,"cantonese, mandarin, english",windows,apple ios,"healthcare, social services, science, technology",cat,llama,hedgehog,green,24,-7,0,9:30:00 AM,2:30:00 AM,pie chart
+29,united states,new york city,english,apple,apple ios,i would say the medical field and then the government.,hedgehog,sea turtle,cat,purple,4,-7,0,9:00:00 AM,1:30:00 AM,i'm not really sure i have a favorite visualization but i always think the interactive maps they use during elections are really cool!
+30,united states,new york city,english,apple,apple ios,the medical field and the government.,hedgehog,sea turtle,cat,purple,4,-7,0,9:00:00 AM,1:30:00 AM,i've never been asked this but i really like the interactive maps they have for the presidential elections!
+31,greece,"athens, greece","greek, english",apple,apple ios,marketing,dog,cat,sea turtle,blue,22,-7,0,9:30:00 AM,1:00:00 AM,choropleth map
+32,united states,new york city,english,apple,apple ios,"medical, finances/banking, earth science (geography, meterology, climate, etc), entertainment & media",cat,flying squirrel,llama,red,17,-7.222,0,10:00:00 AM,2:00:00 AM,nyc subway map
+33,united states,new york city,"english, spanish",apple,apple ios,"medical, business/finance, environmental sciences (climates, sea levels, etc.)",cat,flying squirrel,llama,red,17,-7.222,0,10:00:00 AM,2:00:00 AM,nyc subway map!
+35,united states,new york city,english,apple,apple ios,"healthcare, scientific research, economics, finance",cat,llama,elephant,green,3,-6,0,9:00:00 AM,11:30:00 PM,violin plot
+36,united states,"boston, ma","english, chinese",apple,apple ios,"finance, marketing, psychology",flying squirrel,llama,cat,black,2,-5,2,9:00:00 AM,1:00:00 AM,i enjoy scatterplots
+37,united states,"boston, ma","english, chinese",apple,apple ios,"finance, marketing, psychology",flying squirrel,llama,cat,black,2,-5,2,9:00:00 AM,1:00:00 AM,scatterplots
+38,united states ,"pittsburgh, pa ",english,windows,apple ios,"neurology, logistics, environmental, finance, ar",hedgehog,sea turtle,dolphin,purple,21,-3,1.5,8:15:00 AM,12:30:00 AM,correlation and causation website https://www.tylervigen.com/spurious-correlations
+40,united states ,sacramento,english,apple,apple ios,"sports, business, medicine",cat,llama,dolphin,purple,9,-4,2,8:00:00 AM,11:00:00 PM,donut chart
+41,india,"kolkata, india","english, hindi, bengali",windows,andriod,"frontend web dev, data science",cat,dog,elephant,black,69,-3,0,8:00:00 AM,11:00:00 PM,scatter plot
+42,brazil,são paulo,"portuguese, english, spanish",apple,apple ios,finance,elephant,sea turtle,dolphin,blue,69,-8.3,2,8:00:00 AM,12:00:00 AM,my ig profile pic
+44,united states,"philadelphia, pa",english,windows,apple ios,"finance, health",sea turtle,moose,elephant,orange,2,1,0,9:00:00 AM,12:00:00 AM,histogram
+45,united states,"long island, ny",english,apple,apple ios,medical. i find a lot of charts regarding hospitalizations or other statistics around this field are hard to understand.,dolphin,llama,flying squirrel,black,72,1.6,2,10:00:00 AM,12:00:00 AM,pie chart
+46,united states,"weymouth, ma","english, cantonese, mandarin",apple,apple ios,"medicine/healthcare, climate",hedgehog,llama,cat,navy,12,1,1,8:30:00 AM,1:00:00 AM,zoomable sunbursts
+47,united states,"richmond, va",english,apple,apple ios,"criminology, any scientific research really ",cat,dog,hedgehog,pink,21,1.7,1.5,12:00:00 PM,1:00:00 AM,line graph
+48,united states,"barnstable, ma","english, urdu, hindi, spanish",windows,apple ios,"marketing, data/ business analytics",elephant,dolphin,cat,sage green,21,2,0,9:00:00 AM,1:30:00 AM,scatter plots
+49,united states,"weymouth, ma","english, mandarin, cantonese",apple,apple ios,"medicine/healthcare, climate/environmental",hedgehog,llama,cat,navy,12,1,1,8:30:00 AM,1:00:00 AM,zoomable sunbursts
+52,new zealand,"auckland, new zealand","english, swahili, spanish",windows,apple ios,it and/or any industry that requires information processing and data analysis,elephant,moose,cat,green,17,2,0,9:00:00 AM,12:00:00 AM,jean ropke map
+53,united states,"new brunswick, nj","english, mandarin",apple,apple ios,"psychology, sociology",hedgehog,llama,flying squirrel,purple,24,2,0,9:00:00 AM,1:00:00 AM,network chord diagram
+55,united states,"carol stream, il","english, spanish",apple,andriod,medical diagnostics,dog,moose,elephant,green,3,0,1,10:00:00 AM,12:00:00 AM,wordle https://www.nytimes.com/2022/01/03/technology/wordle-word-game-creator.html
+56,united states,"seattle, wa",english,apple,apple ios,"science, health ",elephant,sea turtle,moose,blue,3,-0.55,0,9:30:00 AM,2:00:00 AM,a pie chart
+57,united states of america,"baltimore, md",english,apple,apple ios,finance,llama,hedgehog,dolphin,purple,69,0,0,9:30:00 AM,12:00:00 PM,pie charts
+58,united states,"lawrence, ma",english,windows,apple ios,"data science, but really all of them",dog,cat,hedgehog,blue,2,-1,0,10:00:00 AM,11:00:00 AM,pie chart
+59,united states,"albany, ny",english,apple,apple ios,"healthcare, biomedical research, public policy",llama,hedgehog,sea turtle,yellow,8,-1,0,8:10:00 AM,2:30:00 AM,stacked bar graph
+61,united states,gainesville,"english, mandarin",windows,apple ios,business,cat,hedgehog,flying squirrel,red,7,-4,0.5,8:00:00 AM,11:30:00 PM,"bar charts. simple, easy"
+64,united states,"edison, nj","english, gujurati",apple,apple ios,finance,elephant,dolphin,flying squirrel,blue,21,0,0,7:30:00 AM,11:00:00 PM,bar graphs
+65,united states,"boston, ma","english, mandarin",apple,apple ios,"college websites (just the ux/ui), photography, restaurants",cat,sea turtle,moose,pastel mint,13,-3,0.5,10:00:00 AM,2:00:00 AM,heat map
+67,united states,"newington, ct",english,apple,apple ios,"education,medicine,sports",dolphin,elephant,llama,purple,14,-3,0,9:30:00 AM,1:30:00 AM,scatterplot
+68,united states,"newington, ct",english,apple,apple ios,"education,medicine,sports",dolphin,elephant,llama,purple,14,-3,0,9:30:00 AM,1:30:00 AM,scatterplot
+69,china,"beijing, china","chinese, english",apple,apple ios,find out the relationship between data,cat,sea turtle,elephant,purple,8,-3,0,9:00:00 AM,1:00:00 AM,"the gaps between white and black america, in charts from new york times"
+70,united states,"greenfield, ma",english,windows,apple ios,"finance, medical",llama,sea turtle,mouse,light blue,9,-1,1,10:00:00 AM,2:00:00 AM,"line charts, heatmaps"
+71,united states,"providence, ri",english,apple,apple ios,creating powerful visual slides for clients ,sea turtle,dolphin,elephant,blue,16,-1,2,7:30:00 AM,12:00:00 PM,bar chart
+72,united states,"chicago, il",englsih,windows,apple ios,"data science, marketing, finance, consulting",sea turtle,dolphin,elephant,purpler,10,-1,1,9:00:00 AM,12:00:00 AM,scatterplot
+73,unites states,new york city,"english, italian",windows,apple ios,"every field, urban informatics",cat,flying squirrel,hedgehog,yellow,759,0,0,8:15:00 AM,1:00:00 AM,"not sure, but i do love maps as a whole"
+76,singapore,singapore,english,windows,apple ios,"ui/ux, web/ mobile development",dog,elephant,dolphin,pink,64,-2,0,9:00:00 AM,1:00:00 AM,fantasy football statistics
+77,singapore,singapore,english,windows,apple ios,"ui/ux, web/ mobile development",dog,elephant,dolphin,pink,64,-2,0,9:00:00 AM,1:00:00 AM,fantasy football statistics
+78,united states,storrs,"english, chinese",apple,apple ios,"finance, healthcare",dolphin,cat,llama,black,7,-2,1,6:30:00 AM,12:00:00 AM,violinplot
+79,united states,"rockville, md","english, korean",windows,apple ios,data science,dolphin,sea turtle,dog,blue,9,-2,0.5,8:00:00 AM,12:00:00 AM,pie charts
+80,united states,"manhasset, ny","english, french",windows,apple ios,i believe that unbiased visualization is an extremely powerful tool for influencing public opinion to push for policy change at a political level,cat,moose,hedgehog,pink,17,-2,0,8:30:00 AM,1:30:00 AM,https://www.stevengbraun.com/dev/radical-reactions/ this visualization is a really cool intersection of physics and linguistics
+83,united states,"morristown, nj","english, hindi",apple,apple ios,"healthcare, transportation, retail, finance",dolphin,elephant,llama,blue,8,-1,0,8:00:00 AM,12:30:00 AM,maps
+84,united states,"newton, ma","english, french, marathi, hindi",apple,apple ios,"right now, i think with all the discovery of new planets and stars, i think visualization would be a great interactive way to learn more about them.",llama,sea turtle,elephant,purple,24,-1,1,10:00:00 AM,11:00:00 PM,i like the pudding!
+85,united states,"newton, ma","english, marathi, hindi, french (a few classes in greek and mandarin!)",apple,apple ios,i think in astronomy with the discovery of planets and stars it might be helpful to create these tools to keep track and learn more.,llama,sea turtle,elephant,purple,24,-1,1,10:00:00 AM,11:00:00 PM,i like pudding.cool!
+87,united states,"newton, ma","english, chinese",windows,andriod,healthcare,dog,cat,dolphin,red,19,-2,2,8:30:00 AM,1:30:00 AM,scatterplot
+88,brazil,são paulo,"portuguese, english, spanish",apple,apple ios,finance,elephant,sea turtle,dolphin,blue,69,-1.67,2,8:00:00 AM,12:00:00 AM,the water lily pond by monet
+89,united states,"chicago, il",english,apple,apple ios,epidemiology ,sea turtle,moose,flying squirrel,orange,10,1,0,9:00:00 AM,1:00:00 AM,not sure
+90,united states,"chicago, il",english,apple,apple ios,epidemiolegy,sea turtle,moose,flying squirrel,orange,10,1,0,9:00:00 AM,1:00:00 AM,not sure
+91,united states,"san jose, ca","english, telugu, hindi",apple,apple ios,"analytics, sciences, business, design",dolphin,llama,elephant,white,8,4,0.5,6:00:00 AM,12:00:00 AM,https://www.washingtonpost.com/graphics/national/eclipse/
+93,canada,"toronto, canada",english,apple,apple ios,"finance, business intelligence",dog,moose,sea turtle,blue,13,2,2,8:00:00 AM,12:00:00 AM,scatter plot
+94,united states,"chicago, il",english,linux/unix,andriod,social justice/research,moose,llama,hedgehog,purple,77,1,1,9:00:00 AM,12:30:00 AM,https://digg.com/travel/link/24-hours-of-flights-between-europe-and-the-united-states-visualized-9ts0hmu9ja
+96,united states,"glendale, az",english,windows,apple ios,political and social data,cat,elephant,flying squirrel,purple,10,-4,1,6:00:00 AM,10:00:00 PM,histogram
+97,united states,"minneapolis, mi",english,apple,apple ios,"marketing, human-computer interaction, research",hedgehog,sea turtle,dolphin,cerulean,22,-4,0,7:00:00 AM,11:00:00 PM,word cloud
+98,united states,"boston, ma",mandarin,apple,apple ios,"music, fitness, city planning",sea turtle,cat,moose,pastel mint green,13,-4,0,10:00:00 AM,2:00:00 AM,heat map
+99,united states,"everett, wa","english, telugu",windows,apple ios,"healthcare, psychology, economics, humanities",cat,dog,llama,green,7,-4,0,9:15:00 AM,2:30:00 AM,after babylon
+100,bulgaria,"silistra, bulgaria","english, bulgarian",windows,apple ios,healthcare,cat,flying squirrel,moose,purple,0,-9,1,9:30:00 AM,1:00:00 AM,i am big into soccer analytics so i really enjoy viewing visualizations of soccer event data and advanced stats.
+101,united states,lafayette,"english, french ",apple,apple ios,"big data, cloud computing",dog,moose,dolphin,blue,2,-8,2,9:30:00 AM,1:00:00 AM,flow of data among many applications 
+102,ethiopia,"addis abeba, ethiopia","english, amharic",windows,apple ios,i would be interested in using it for design,elephant,cat,sea turtle,yellow,8,-4.44,0,8:00:00 AM,12:00:00 AM,polls on map of usa
+103,united states,"yonkers, ny","english, korean",windows,apple ios,i think data and business analysts can benefit the most from it because they can convey the meaning of large data sets to their managers,dog,cat,moose,blue,11,-9,0,10:00:00 AM,3:00:00 AM,histogram
+104,united states,"chicago, il","english, spanish",windows,apple ios,"public service, finance, tech",cat,dolphin,flying squirrel,red,8,-10,1.5,8:00:00 AM,1:00:00 AM,"object based, whether it be a map with specific regions to click on, or objects on a page that describe the type of data you are looking at"
+105,india,"hyderabad, india","english, telugu ",apple,apple ios,"marketing, politcs",llama,cat,elephant,orange,21,-11.11,0.3,11:00:00 AM,2:30:00 AM,the kobe bryant shot chart.
+106,united states,"colorado springs, co",spanish,windows,apple ios,"machine learning, healthcare",dog,flying squirrel,dolphin,sunset orange,13,8,0,5:00:00 AM,9:00:00 PM,a mosaic
